@@ -6,8 +6,8 @@ Multimodal AI App using Llava 7B and Gradio. Building an AI Voice Assistant App 
 -  It showcases the integration of these technologies within a Gradio app, complemented by the gTTS library for realistic text-to-speech functionality bringing our voice assistant to life.
 -  Build an AI Voice Assistant App using Multimodal LLM "Llava" and Whisper
 
-## Project Implementation Inspired Tutorial; Expert Guidance:
-[Link ▶️](https://www.youtube.com/watch?v=77dJJBFPLpY)
+## Implementation Expert Guide:
+[Demo ▶️](https://www.youtube.com/watch?v=77dJJBFPLpY)
 
  ---
 ## ©️ License 🪪 
